@@ -1,6 +1,8 @@
 {
   "user_id": 600224939357765636,
-  "nicknames": [],
+  "nicknames": [
+    "norivensuu"
+  ],
   "created_at": "20251009T132030Z",
   "history": [
     {
@@ -9,6 +11,7 @@
       "uploader": 600224939357765636
     }
   ],
-  "modified_at": "20251009T144327Z",
-  "current": "skins/600224939357765636/current.png"
+  "modified_at": "20251009T144352Z",
+  "current": "skins/600224939357765636/current.png",
+  "main_nickname": "norivensuu"
 }
