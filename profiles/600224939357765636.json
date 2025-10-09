@@ -6,7 +6,7 @@
   ],
   "main_nickname": "norivensuu",
   "created_at": "20251009T144957Z",
-  "modified_at": "20251009T183008Z",
+  "modified_at": "20251009T180742Z",
   "history": {
     "norivensuu": [
       {
@@ -72,11 +72,6 @@
       {
         "ts": "20251009T180742Z",
         "path": "skins/norivensuu/20251009T180742Z.png",
-        "uploader": 600224939357765636
-      },
-      {
-        "ts": "20251009T183008Z",
-        "path": "skins/norivensuu/20251009T183008Z.png",
         "uploader": 600224939357765636
       }
     ]
