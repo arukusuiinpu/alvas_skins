@@ -1,0 +1,18 @@
+{
+  "user_id": 821768478046421005,
+  "nicknames": [
+    "Vasya_stalin"
+  ],
+  "main_nickname": "Vasya_stalin",
+  "created_at": "20251014T154338Z",
+  "modified_at": "20251014T155029Z",
+  "history": {
+    "Vasya_stalin": [
+      {
+        "ts": "20251014T155029Z",
+        "path": "skins/Vasya_stalin/20251014T155029Z.png",
+        "uploader": 821768478046421005
+      }
+    ]
+  }
+}
