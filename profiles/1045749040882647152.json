@@ -1,0 +1,33 @@
+{
+  "user_id": 1045749040882647152,
+  "nicknames": [
+    "TraBorat"
+  ],
+  "main_nickname": "TraBorat",
+  "created_at": "20251027T090824Z",
+  "modified_at": "20251027T101409Z",
+  "history": {
+    "TraBorat": [
+      {
+        "ts": "20251027T091212Z",
+        "path": "skins/TraBorat/20251027T091212Z.png",
+        "uploader": 1045749040882647152
+      },
+      {
+        "ts": "20251027T092312Z",
+        "path": "skins/TraBorat/20251027T092312Z.png",
+        "uploader": 1045749040882647152
+      },
+      {
+        "ts": "20251027T092744Z",
+        "path": "skins/TraBorat/20251027T092744Z.png",
+        "uploader": 1045749040882647152
+      },
+      {
+        "ts": "20251027T101409Z",
+        "path": "skins/TraBorat/20251027T101409Z.png",
+        "uploader": 1045749040882647152
+      }
+    ]
+  }
+}
