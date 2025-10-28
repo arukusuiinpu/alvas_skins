@@ -5,6 +5,14 @@
   ],
   "main_nickname": "susik_us",
   "created_at": "20251028T081954Z",
-  "modified_at": "20251028T081954Z",
-  "history": {}
+  "modified_at": "20251028T082222Z",
+  "history": {
+    "susik_us": [
+      {
+        "ts": "20251028T082222Z",
+        "path": "skins/susik_us/20251028T082222Z.png",
+        "uploader": 931256993983922186
+      }
+    ]
+  }
 }
